@@ -1,6 +1,6 @@
 # haos
-😄
-写一个小小的操作系统内核，纯属个人兴趣🤭
+
+😄写一个小小的操作系统内核，纯属个人兴趣🤭
 
 ![](https://img.shields.io/badge/%E6%84%9F%E8%B0%A2%E5%A4%A7%E4%BD%AC%EF%BC%9A-%E8%B8%8C%E8%BA%87%E6%9C%88%E5%85%89-orange)
 
